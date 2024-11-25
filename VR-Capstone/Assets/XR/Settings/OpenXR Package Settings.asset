@@ -502,7 +502,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2b7365b139f7aec43b23d26b7a48b5a6, type: 3}
   m_Name: MetaQuestTouchPlusControllerProfile Standalone
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
+  m_enabled: 1
+=======
   m_enabled: 0
+>>>>>>> c6c771e40785cacc0542e6295c247959e849d1f6
   nameUi: Meta Quest Touch Plus Controller Profile
   version: 0.0.1
   featureIdInternal: com.unity.openxr.feature.input.metaquestplus
@@ -756,7 +760,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c4b862ee14fb479fbfe5fffe655d3ed3, type: 3}
   m_Name: MetaQuestTouchProControllerProfile Standalone
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
+  m_enabled: 1
+=======
   m_enabled: 0
+>>>>>>> c6c771e40785cacc0542e6295c247959e849d1f6
   nameUi: Meta Quest Touch Pro Controller Profile
   version: 0.0.1
   featureIdInternal: com.unity.openxr.feature.input.metaquestpro
